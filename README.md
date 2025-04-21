@@ -1,6 +1,6 @@
 <!-- Welcome Greeting with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile🌸!!;Hello+Visitor!+I'm+Ryan;aka+RumiKurumi;Full+Stack+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;Hello+Visitor!+I'm+Ryan;aka+RumiKurumi;Full+Stack+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- Profile Stats Row -->
@@ -19,7 +19,7 @@
 
 <!-- Main Content Section -->
 <div align="center">
-  <h2>🚀 About Me</h2>
+  <h2>🚀 About Me 🌸</h2>
   <p>Passionate full-stack developer specializing in AI integration and blockchain solutions. Turning complex problems into elegant solutions since 2020.</p>
 </div>
 
