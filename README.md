@@ -109,16 +109,19 @@
   <table>
     <tr>
       <td width="33%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1uYzB6Z3J4c2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="200">
         <h3>AI Content Generator</h3>
         <p>Next.js application with HuggingFace integration</p>
         <img src="https://img.shields.io/badge/Tech-Next.js|HuggingFace|Tailwind-5BC0EB?style=flat">
       </td>
       <td width="33%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1uYzB6Z3J4c2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/trN9ht5RlE3Dcwavg2/giphy.gif" width="200">
         <h3>Blockchain Marketplace</h3>
         <p>Ethereum-based NFT marketplace with Laravel backend</p>
         <img src="https://img.shields.io/badge/Tech-Solidity|Laravel|Web3.js-5BC0EB?style=flat">
       </td>
       <td width="33%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1uYzB6Z3J4c2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRf5fjcnjRtwspeJ0j/giphy.gif" width="200">
         <h3>Smart Chat Assistant</h3>
         <p>LLM-powered chatbot with SBERT and Ollama</p>
         <img src="https://img.shields.io/badge/Tech-Python|Ollama|SBERT-5BC0EB?style=flat">
