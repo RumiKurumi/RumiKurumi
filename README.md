@@ -161,4 +161,6 @@
   <h4>✨ Open to collaborations and interesting projects!</h4>
 </div>
 
-Made with 💙 by RumiKurumi
+
+
+MADE WITH 💙 BY RUMIKURUMI
