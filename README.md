@@ -1,6 +1,6 @@
 <!-- Welcome Greeting with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+My+GitHub !!;Hello+Visitor!+I'm+Ryan;aka+RumiKurumi;Full+Stack+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+My+GitHub!!;Hello+Visitor!+I'm+Ryan;aka+RumiKurumi;Full+Stack+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- Profile Stats Row -->
