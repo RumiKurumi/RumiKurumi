@@ -161,6 +161,6 @@
   <h4>✨ Open to collaborations and interesting projects!</h4>
 </div>
 
-
-
+<br>
+<br>
 MADE WITH 💙 BY RUMIKURUMI
