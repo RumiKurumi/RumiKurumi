@@ -1,4 +1,4 @@
-# Rumi's Githube Profile 🌸
+# RUMI'S GITHUB PROFILE 🌸
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Ryan;aka+RumiKurumi;Full+Stack+Alchemist;AI+%26+Blockchain+Explorer;Digital+Experience+Creator" alt="Typing SVG" />
@@ -179,7 +179,6 @@
     "Code is art, blockchain is trust, and AI is the new canvas."
   </h3>
   <h4>✨ Open for collaborations on innovative projects!</h4>
-<h4> Cafted with ♡ by RumiKurumi </h4>
 </div>
 
-Crafted with ♡ by RumiKurumi
+Crafted with 💙 by RumiKurumi
