@@ -1,184 +1,161 @@
-# RUMI'S GITHUB PROFILE 🌸
-
+<!-- Welcome Greeting with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Ryan;aka+RumiKurumi;Full+Stack+Alchemist;AI+%26+Blockchain+Explorer;Digital+Experience+Creator" alt="Typing SVG" />
-  
-  <h3>⚡ Transforming Ideas into Immersive Digital Realities ⚡</h3>
-  
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://github.com/RumiKurumi">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5BC0EB&labelColor=0D1117">
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://twitter.com/RumiKurumi">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://rumikurumi.medium.com">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile🌸!!;Hello+Visitor!+I'm+Ryan;aka+RumiKurumi;Full+Stack+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
+</div>
+
+<!-- Profile Stats Row -->
+<div align="center">
+  <a href="https://github.com/RumiKurumi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-30+-5BC0EB?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories">
+  </a>
+  <a href="https://github.com/RumiKurumi?tab=followers">
+    <img src="https://img.shields.io/github/followers/RumiKurumi?style=for-the-badge&logo=github&color=5BC0EB&labelColor=0D1117" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RumiKurumi&label=Profile+Views&color=5BC0EB&style=for-the-badge&labelColor=0D1117" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Daily+Coding-5%2B+Hours-5BC0EB?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" alt="Daily Coding">
 </div>
 
 <br>
 
+<!-- Main Content Section -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RumiKurumi&label=Profile+Views&color=5BC0EB&style=flat" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/yourwakatimeid.svg?color=5BC0EB" alt="WakaTime" />
-  <img src="https://img.shields.io/badge/Daily-Coder-5BC0EB?style=flat&logo=visual-studio-code&logoColor=white" alt="Daily Coder" />
+  <h2>🚀 About Me</h2>
+  <p>Passionate full-stack developer specializing in AI integration and blockchain solutions. Turning complex problems into elegant solutions since 2020.</p>
 </div>
 
-<br>
-
-## 🌌 Digital DNA
-
-```json
-{
-  "name": "Ryan",
-  "alias": "RumiKurumi",
-  "role": "Full Stack Digital Artisan",
-  "core_philosophy": "Bridging the abstract with the executable",
-  "current_focus": [
-    "Building AI-augmented development tools",
-    "Creating immersive Web3 experiences",
-    "Designing generative art systems",
-    "Developing intelligent game NPCs"
-  ],
-  "languages": ["JavaScript", "Python", "Java", "PHP", "Solidity", "Rust"],
-  "superpowers": [
-    "Turning coffee into code",
-    "Debugging with sixth sense",
-    "Seeing matrix in everything"
-  ]
-}
-```
-
-<br>
-
-## 🛠️ Ultimate Tech Stack
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **🌐 Web & Mobile**
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **🧠 AI & ML**
+### **AI & Machine Learning**
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![SBERT](https://img.shields.io/badge/SBERT-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-00A98F?style=for-the-badge&logo=ollama&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### **⛓️ Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-### **🎮 Game Dev**
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-
-### **🛡️ DevOps & Cloud**
+### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-<br>
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=RumiKurumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&icon_color=5BC0EB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumiKurumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&text_color=FFFFFF&langs_count=8" alt="Top Languages">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RumiKurumi&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BC0EB&ring=5BC0EB&fire=5BC0EB&currStreakLabel=5BC0EB" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- WakaTime Section -->
+## ⏳ Coding Activity
+
+```text
+💻 This Week's Coding Time: 45 hrs 12 mins
+🌙 Late Night Coding: 15 hrs 30 mins
+📅 Most Productive Day: Wednesday
+🕒 Peak Coding Hours: 14:00 - 18:00
+```
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RumiKurumi&theme=tokyonight&hide_border=true&bg_color=0D1117&color=5BC0EB&line=5BC0EB&point=FFFFFF&area=true" alt="Activity Graph" width="100%">
+</div>
+
+<!-- Projects Section -->
 ## 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2bGJmZ2VlY2J5d2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRf5fjcnjRtwspeJ0j/giphy.gif" width="100">
-        <h3>AI Art Generator</h3>
-        <p>Stable Diffusion + ControlNet web interface with custom models</p>
-        <img src="https://img.shields.io/badge/Tech-React%20|%20Python%20|%20HuggingFace-5BC0EB">
+        <h3>AI Content Generator</h3>
+        <p>Next.js application with HuggingFace integration</p>
+        <img src="https://img.shields.io/badge/Tech-Next.js|HuggingFace|Tailwind-5BC0EB?style=flat">
       </td>
       <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2bGJmZ2VlY2J5d2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100">
-        <h3>Web3 RPG Game</h3>
-        <p>Blockchain-based RPG with NFT characters and DeFi mechanics</p>
-        <img src="https://img.shields.io/badge/Tech-Solidity%20|%20Unity%20|%20IPFS-5BC0EB">
+        <h3>Blockchain Marketplace</h3>
+        <p>Ethereum-based NFT marketplace with Laravel backend</p>
+        <img src="https://img.shields.io/badge/Tech-Solidity|Laravel|Web3.js-5BC0EB?style=flat">
       </td>
       <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2bGJmZ2VlY2J5d2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="100">
-        <h3>LLM Agent Framework</h3>
-        <p>Customizable AI agents with SBERT and Ollama integration</p>
-        <img src="https://img.shields.io/badge/Tech-Python%20|%20Ollama%20|%20SBERT-5BC0EB">
+        <h3>Smart Chat Assistant</h3>
+        <p>LLM-powered chatbot with SBERT and Ollama</p>
+        <img src="https://img.shields.io/badge/Tech-Python|Ollama|SBERT-5BC0EB?style=flat">
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
-## 📊 Development Analytics
+<!-- Contact Section -->
+## 🌐 Connect With Me
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RumiKurumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&icon_color=5BC0EB&text_color=FFFFFF">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RumiKurumi&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BC0EB&ring=5BC0EB&fire=5BC0EB&currStreakLabel=5BC0EB">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/RumiKurumi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://discord.gg/yourinvite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
+<!-- Footer -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RumiKurumi&theme=tokyonight&hide_border=true&bg_color=0D1117&color=5BC0EB&line=5BC0EB&point=FFFFFF">
-</div>
-
-<br>
-
-## 🎨 Creative Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumiKurumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&text_color=FFFFFF">
-      </td>
-      <td width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=RumiKurumi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## 🌟 Current Obsessions
-
-- Building AI-powered developer tools
-- Exploring on-chain generative art
-- Creating immersive metaverse experiences
-- Developing "smart" game NPCs with LLMs
-- Experimenting with decentralized AI models
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5BC0EB&height=120&section=footer&text=Let's+Build+the+Future+Together&fontSize=20&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5BC0EB&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FFFFFF"/>
 </div>
 
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2bGJmZ2VlY2J5d2R1Z3B5eW5tY2VnM3VtZzR0eW9zN3VqZ3VkZ2JqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25">
-    "Code is art, blockchain is trust, and AI is the new canvas."
+    "Code is my canvas, algorithms are my brushstrokes"
   </h3>
-  <h4>✨ Open for collaborations on innovative projects!</h4>
+  <h4>✨ Open to collaborations and interesting projects!</h4>
 </div>
 
-Crafted with 💙 by RumiKurumi
+Made with 💙 by RumiKurumi
