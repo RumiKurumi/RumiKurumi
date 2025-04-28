@@ -73,15 +73,15 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RumiKurumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&icon_color=5BC0EB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=RumiKurumi&show_icons=true&cache_seconds=60&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&icon_color=5BC0EB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumiKurumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&text_color=FFFFFF&langs_count=8" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumiKurumi&layout=compact&cache_seconds=60&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC0EB&text_color=FFFFFF&langs_count=8" alt="Top Languages">
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RumiKurumi&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BC0EB&ring=5BC0EB&fire=5BC0EB&currStreakLabel=5BC0EB" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RumiKurumi&cache_seconds=60&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BC0EB&ring=5BC0EB&fire=5BC0EB&currStreakLabel=5BC0EB" alt="GitHub Streak">
       </td>
     </tr>
   </table>
