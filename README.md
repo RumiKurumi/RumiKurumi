@@ -20,7 +20,7 @@
 <!-- Main Content Section -->
 <div align="center">
   <h2>🚀 About Me 🌸</h2>
-  <p>Passionate full-stack developer specializing in AI integration and blockchain solutions. Turning complex problems into elegant solutions since 2020.</p>
+  <p>Passionate full-stack developer specializing in AI integration and blockchain solutions. Turning complex problems into elegant solutions since 2020 😊.</p>
 </div>
 
 <!-- Tech Stack Section -->
