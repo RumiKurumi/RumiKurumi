@@ -120,14 +120,14 @@
 ---
 
 ### 🛠 **IDE & Development Tools**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FF3366?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)  
-![WebStorm](https://img.shields.io/badge/WebStorm-00C0FF?style=for-the-badge&logo=webstorm&logoColor=white)  
-![Rider](https://img.shields.io/badge/Rider-FF3366?style=for-the-badge&logo=rider&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FF3366?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-00C0FF?style=for-the-badge&logo=webstorm&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-FF3366?style=for-the-badge&logo=rider&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Bware](https://img.shields.io/badge/Bware-FF3366?style=for-the-badge&logoColor=white)
 
 </div>
